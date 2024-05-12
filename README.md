@@ -2,7 +2,7 @@
 This is the official implementation of the paper "LR<sup>2</sup>: a Model-Agnostic Logical Reasoning Framework for Legal
 Case Retrieval" based on PyTorch.
 
-Here we mainly provide the implementation of LR<sup>2</sup>-G, for <sup>2</sup>-D and the neural module, you can refer to "https://github.com/ke-01/NS-LCR".
+Here we mainly provide the implementation of LR<sup>2</sup>-G, for LR<sup>2</sup>-D and the neural module, you can refer to "https://github.com/ke-01/NS-LCR".
 
 ## Get LR<sup>2</sup> results in 3 steps: 
 1. Get the results of the neural model through training. 
