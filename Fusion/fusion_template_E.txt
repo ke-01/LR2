@@ -1,0 +1,23 @@
+查询案例：
+
+{{Query Case}}
+
+候选案例：
+
+{{Candidate Case}}
+
+法律级别的解释： 
+
+{{law-level exp}}
+
+案例级别的解释：
+
+{{case-level exp}}
+
+查询案例和候选案例的相关性得分（0-1）： 
+
+{{relevance score}}
+
+评级（只输出等级）：
+
+- 相关性（0-2，0最低）：

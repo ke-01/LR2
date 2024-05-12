@@ -1,0 +1,15 @@
+查询案例：
+
+{{Query Case}}
+
+候选案例：
+
+{{Candidate Case}}
+
+匹配解释：
+
+{{law-level exp}} {{case-level exp}}
+
+评级（只输出等级）：
+
+- 全面性（0-5，0最低）：
