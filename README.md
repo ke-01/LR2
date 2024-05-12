@@ -1,8 +1,8 @@
-# Implementation of LR^2
-This is the official implementation of the paper "LR^2: a Model-Agnostic Logical Reasoning Framework for Legal
+# Implementation of LR^2^
+This is the official implementation of the paper "LR^2^: a Model-Agnostic Logical Reasoning Framework for Legal
 Case Retrieval" based on PyTorch.
 
-Here we mainly provide the implementation of LR^2-G, for LR^2-D and the neural module, you can refer to "https://github.com/ke-01/NS-LCR".
+Here we mainly provide the implementation of LR^2^-G, for LR^2^-D and the neural module, you can refer to "https://github.com/ke-01/NS-LCR".
 
 ## Get LR^2 results in 3 steps: 
 1. Get the results of the neural model through training. 
@@ -29,7 +29,7 @@ python Case-level/case_main.py --data_type elam
 Refer to Fusion folder.
 
 ### Fusion
-You can get the LR^2-G results with the following instructions.
+You can get the LR^2^-G results with the following instructions.
 
 ```bash
 python Fuison/fusion_main.py --data_type Lecard --base_model_path ./base_model_res/Lecard_bert_res.json
